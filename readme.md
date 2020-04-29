@@ -7,3 +7,5 @@ Utilizando la libreria Tesseract se obtiene el texto de la imagen del captcha, e
 informacion del RUC ingresado.
 
 
+#End
+
